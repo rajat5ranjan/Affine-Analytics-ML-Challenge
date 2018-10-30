@@ -11,3 +11,4 @@ The problem is to market the right set of properties to the accounts to maximize
 Recommend the list of ‘n’ properties that should be marketed to the accounts in the Test Dataset. The final evaluation will include both the factors - ‘ the optimal number of properties suggested’ and **the number of properties converted**.
 
 ### Leaderboard Ranking - 12th
+https://www.hackerearth.com/challenge/hiring/affine-analytics-ml-challenge/leaderboard/
